@@ -1,3 +1,48 @@
 hey what's app!
 
 https://wallpapers.com/images/hd/india-pictures-tzikrgdner1a9try.jpg
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Incredible india</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+    <title>Incredible India</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contactus">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="home">
+            <h1>Welcome to Incredible India</h1>
+        </section>
+        <section id="about">
+            <h2>About India</h2>
+            <p>India is a vast South Asian country with diverse terrain – from Himalayan peaks to Indian Ocean coastline – and history reaching back 5 millennia. In the north, Mughal Empire landmarks include Delhi’s Red Fort complex and massive Jama Masjid mosque, plus Agra’s iconic Taj Mahal mausoleum. Pilgrims bathe in the Ganges in Varanasi, and Rishikesh is a yoga centre and base for Himalayan trekking.</p>
+        </section>
+        <section id="contactus">
+            <h2>Contact Us</h2>
+            <p>Email: info@incredibleindia.com<br>Phone: +91-11-12345678</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2022 Incredible India. All rights reserved.</p>
+    </footer>
+</body>
+</html>
