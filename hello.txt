@@ -346,3 +346,63 @@ nav{
         nav ul li a:link{
             background-color: #555;
         }
+
+
+
+
+
+button:
+
+html
+<div class="container">
+  <div class="text-left">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero.</p>
+  </div>
+  <div class="text-right">
+    <p>Suspendisse nec congue purus. Donec bibendum quam in tellus. Nullam cursus pulvinar lectus.</p>
+  </div>
+  <div class="button">
+    <button>Click me</button>
+  </div>
+</div>
+
+
+
+css:
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.text-left, .text-right {
+  flex: 1;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.text-left {
+  background-color: #f2f2f2;
+}
+
+.text-right {
+  background-color: #ddd;
+}
+
+.button {
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
