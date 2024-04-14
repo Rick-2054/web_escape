@@ -168,3 +168,18 @@ div{
             color: #ccc;
         }
     </style>
+
+contact us:-
+<section id="contactus" class="form-container">
+            <h2>Contact Us</h2>
+            <form>
+                <input type="text" placeholder="Name" />
+                <input type="email" placeholder="Email" />
+                <input type="tel" placeholder="Phone Number" />
+                <textarea placeholder="Message"></textarea>
+                <input type="submit" value="Send Message" />
+            </form>
+        </section>
+
+
+
