@@ -244,4 +244,7 @@ css 3:-
             }
         }
 
+you are a web developer now make a complete,responseive well strcutured with great translucent images on the theme 'incredible india',write an external css,index.html,about.html,contact.html
 
+in index.html .The Navbar has 3 rod icon at top right corner,clicking it will drop-down a list of navlinks aligned center.
+Make the font attractive and well sized
