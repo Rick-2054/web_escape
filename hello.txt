@@ -248,3 +248,26 @@ you are a web developer now make a complete,responseive well strcutured with gre
 
 in index.html .The Navbar has 3 rod icon at top right corner,clicking it will drop-down a list of navlinks aligned center.
 Make the font attractive and well sized
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contactus">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
