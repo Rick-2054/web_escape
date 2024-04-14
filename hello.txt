@@ -46,3 +46,14 @@ https://wallpapers.com/images/hd/india-pictures-tzikrgdner1a9try.jpg
     </footer>
 </body>
 </html>
+
+
+//css-1
+body{
+    background-image: url(india.jpg);
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
