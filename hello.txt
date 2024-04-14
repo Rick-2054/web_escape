@@ -183,3 +183,65 @@ contact us:-
 
 
 
+
+
+css 3:-
+.form-container{
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 30%;
+            margin: 0 auto;
+            margin-top: 5%;
+            text-align: center;
+        }
+       .form-container h2{
+            text-transform: uppercase;
+            letter-spacing: 5px;
+            margin-bottom: 20px;
+        }
+       .form-container input[type="text"],
+       .form-container input[type="email"],
+       .form-container input[type="tel"]{
+            border: none;
+            border-radius: 5px;
+            padding: 10px;
+            width: 100%;
+            margin-bottom: 10px;
+            box-sizing: border-box;
+            background-color: #ddd;
+        }
+       .form-container textarea{
+            border: none;
+            border-radius: 5px;
+            padding: 10px;
+            width: 100%;
+            height: 100px;
+            margin-bottom: 10px;
+            box-sizing: border-box;
+            background-color: #ddd;
+        }
+       .form-container input[type="submit"]{
+            border: none;
+            border-radius: 5px;
+            padding: 10px;
+            width: 100%;
+            background-color: #555;
+            color: #fff;
+            cursor: pointer;
+        }
+       .form-container input[type="submit"]:hover{
+            background-color: #777;
+        }
+        @media screen and (max-width: 768px) {
+            nav ul li{
+                display: block;
+                margin: 10px 0;
+            }
+           .form-container{
+                width: 80%;
+            }
+        }
+
+
