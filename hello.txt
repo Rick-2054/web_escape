@@ -57,3 +57,84 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+
+
+
+css 2:
+
+
+h1{
+    text-align: center;
+    color: brown;
+}
+header{
+    height: 140px;
+    border: solid;
+    font-family: cursive
+}
+nav{
+    height: 50px;
+    border: solid;
+}
+section{
+    height: 700px;
+    width: 580px;
+    border: solid;
+    background-image: url(Suitcase1.jpeg);
+    background-repeat: no-repeat
+}
+aside{
+    height: 708px;
+    width: 1312px;
+    border: solid;
+    float: right;
+    margin-top: -710px
+}
+footer{
+    height: 90px;
+    border: solid;
+    text-align: center;
+    background-color: dimgrey
+}
+table,tr,th{
+    text-align: center;
+    column-width: 900px;
+}
+button{
+    background-color: cornsilk;
+    margin-bottom: 10px;
+}
+nav{
+    position: sticky
+}
+img{
+    border: solid   
+}
+.shift{
+    margin-top: 90px;
+}
+.header-bg{
+    background-image: url(IncredibleIndia.jpeg);
+    background-repeat: no-repeat;
+    background-size:  1900px 160px;
+}
+.nav-bg{
+    background-color: lightskyblue;
+}
+.section-bg{
+    background-image: url(Desert.jpeg); 
+    background-repeat: no-repeat; 
+    background-size: cover   
+}
+/*600px 700px*/
+.aside-bg{
+    background-image: url(PaperPlane.jpeg); 
+    background-repeat: no-repeat; 
+    background-size: cover
+}
+
+/*About Us.html CSS properties*/
+div{
+    
+}
